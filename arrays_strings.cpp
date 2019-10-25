@@ -55,3 +55,16 @@ int main()
     //--------------------------------STRINGS----------------------------------//
 
 }
+
+/* Output: 'arr1[] elements:
+1 2 3 0 0 1972334333 1972334307 1547502471 4199040
+arr2[] elements:
+1 3 5 7 8 9
+arr3[] elements:
+3 4 5 0 0 0 0 0 0 0
+Hello
+HelloHello
+Hello
+Hello here
+Jamie Foxx.
+Less typing here, in this method!' */ 
